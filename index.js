@@ -2,7 +2,6 @@ import jsonData from "./data.json" assert { type: "json" };
 
 var x1 = Object.keys(jsonData.Fare);
 var y1 = Object.values(jsonData.Fare);
-var y1 = Object.values(jsonData.Age);
 var x2 = Object.keys(jsonData.Age);
 var y2 = Object.values(jsonData.Age);
 
